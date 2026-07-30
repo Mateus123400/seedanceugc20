@@ -1,0 +1,8 @@
+{
+  "name": "Seedance UGC AVANÇADO",
+  "description": "Plataforma e treinamento definitivo para criação e automação de vídeos virais sem aparecer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
