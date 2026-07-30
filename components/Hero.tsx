@@ -41,7 +41,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenVideo, onOpenCheckout }) => {
         </div>
 
         {/* Display Headline */}
-        <h1 className="font-display text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-bold uppercase tracking-tight max-w-4xl leading-[1.15]">
+        <h1 className="font-display text-4xl sm:text-4xl md:text-5xl lg:text-6xl font-bold uppercase tracking-tight max-w-4xl leading-[1.15]">
           Domine a arte de criar vídeos realistas com IA sem{' '}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#44f5bd] to-[#60ff99] text-glow">
             "ter cara de IA"
